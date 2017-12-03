@@ -23,4 +23,4 @@ Download Link: https://drive.google.com/open?id=1TX8wsxdsEn8ihTflE5I6PB-Hu40O9B0
 
 ## Preview
 ![alt text](https://user-images.githubusercontent.com/28923318/33528024-93267196-d895-11e7-93a4-6bed6d8b48ec.jpg)
-
+![alt text](https://user-images.githubusercontent.com/28923318/33528025-9665c76c-d895-11e7-82dd-1f7c92fd910f.jpg)
