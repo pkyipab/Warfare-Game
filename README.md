@@ -8,7 +8,7 @@ The warfare game is a turn-based game involving mutiplayers / teams ("Red" and "
 
 # How to play
 
-*Step 1: Open the game and load the Map.txt and Units.txt respectively
+**Step 1: Open the game and load the Map.txt and Units.txt respectively
 *Step 2: Before you click on the "Start Game" button", make sure you have loaded the corresponding files.
 *Step 3: Enjoy the game :)
 
