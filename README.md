@@ -11,15 +11,16 @@ A Mini Strategy Game that allows multiplayers to enjoy
 The warfare game is a turn-based game involving mutiplayers / teams ("Red" and "Blue" or something else), each team has a collection of units from Archer, Cavalry, Infantry, Pikeman. In each round, player can choose to Heal or Move all the alive (not dead) units one by one. If there are any enemies in the attack range of it, player can choose to Attack the enemy. The game ends when one team is left. 
 
 # Pre-requisites
+Since the the game is implemented under .jar format. To run the jar file, you need to download and install the Java Runtime Environment (if you do not have it already) from the link below.
 
-
-Successfully implment on Windows, haven't tested on other platforms(MacOS, Linux)
-
+```
+Try to run the game first, download JRE if you fail to run
+```
+[Java Runtime Environment](https://www.java.com/en/download/)
 
 # Installing
 
 No need to install, just double click on the .jar file :)
-
 
 
 Download Link: 
