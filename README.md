@@ -8,9 +8,9 @@ The warfare game is a turn-based game involving mutiplayers / teams ("Red" and "
 
 # How to play
 
-**Step 1: Open the game and load the Map.txt and Units.txt respectively
-*Step 2: Before you click on the "Start Game" button", make sure you have loaded the corresponding files.
-*Step 3: Enjoy the game :)
+- Step 1: Open the game and load the Map.txt and Units.txt respectively
+- Step 2: Before you click on the "Start Game" button", make sure you have loaded the corresponding files.
+- Step 3: Enjoy the game :)
 
 # Pre-requisites
 Since the the game is implemented under .jar format. To run the jar file, you need to download and install the Java Runtime Environment (if you do not have it already) from the link below.
