@@ -1,0 +1,29 @@
+.menu-title {
+    -fx-font-size: 20;
+    -fx-text-fill: white;
+}
+
+.menu-button {
+     -fx-pref-width:200;
+     -fx-pref-height:40;
+     -fx-padding: 8 15 15 15;
+     -fx-background-radius: 50 50 50 50;
+}
+
+.game-over {
+  -fx-background-image: url("background_image_game_over.jpg");
+  -fx-background-position: center center;
+}
+
+.background {
+  -fx-background-image: url("background_image_simple.jpg");
+  -fx-background-size: 1920 1080;
+  -fx-background-position: center center;
+}
+
+.welcome {
+  -fx-background-image: url("background_image_welcome.jpg");
+  -fx-background-repeat: stretch;
+  -fx-background-size: 1080 607;
+  -fx-background-position: center center;
+}
