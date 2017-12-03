@@ -16,7 +16,7 @@ Since the the game is implemented under .jar format. To run the jar file, you ne
 ```
 Try to run the game first, download JRE if you fail to run
 ```
-[Java Runtime Environment](https://www.java.com/en/download/)
+Download JRE: [Java Runtime Environment](https://www.java.com/en/download/)
 
 # Installing
 
