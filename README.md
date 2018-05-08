@@ -26,7 +26,7 @@ No need to install, just double click on the .jar file :)
 
 
 Download Link: 
-[Click here](https://drive.google.com/open?id=1TX8wsxdsEn8ihTflE5I6PB-Hu40O9B0r)
+[Click here](https://drive.google.com/file/d/1ePQB6byH__hQOanSaLOlp4xot1w8nRPK/view?usp=sharing)
 
 
 
